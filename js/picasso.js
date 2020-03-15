@@ -34,7 +34,80 @@
                 'opacity'     : [1, 0]
               }
             ]
-          } , {
+          } , 
+          {
+            'wrapper' : '#intro',
+            'duration' : '100%',
+            'animations' :  [
+              {
+                'selector'    : '.name',
+                'translateY'  : -140,
+                'opacity'     : 0
+              } , {
+                'selector'    : '.byline',
+                'translateY'  : -110,
+                'opacity'     : 0
+              } , {
+                'selector'    : '.twitter',
+                'opacity'     : [1, 0]
+              }
+            ]
+          },
+          {
+            'wrapper' : '#intro',
+            'duration' : '100%',
+            'animations' :  [
+              {
+                'selector'    : '.name',
+                'translateY'  : -140,
+                'opacity'     : 0
+              } , {
+                'selector'    : '.byline',
+                'translateY'  : -110,
+                'opacity'     : 0
+              } , {
+                'selector'    : '.twitter',
+                'opacity'     : [1, 0]
+              }
+            ]
+          },
+          {
+            'wrapper' : '#intro',
+            'duration' : '100%',
+            'animations' :  [
+              {
+                'selector'    : '.name',
+                'translateY'  : -140,
+                'opacity'     : 0
+              } , {
+                'selector'    : '.byline',
+                'translateY'  : -110,
+                'opacity'     : 0
+              } , {
+                'selector'    : '.twitter',
+                'opacity'     : [1, 0]
+              }
+            ]
+          },
+          {
+            'wrapper' : '#intro',
+            'duration' : '100%',
+            'animations' :  [
+              {
+                'selector'    : '.name',
+                'translateY'  : -140,
+                'opacity'     : 0
+              } , {
+                'selector'    : '.byline',
+                'translateY'  : -110,
+                'opacity'     : 0
+              } , {
+                'selector'    : '.twitter',
+                'opacity'     : [1, 0]
+              }
+            ]
+          },
+          {
             'wrapper' : '#explosion',
             'duration' : '150%',
             'animations' :  [
